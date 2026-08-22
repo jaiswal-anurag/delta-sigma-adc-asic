@@ -123,6 +123,4 @@ This creates a Vivado project, adds `rtl/src/*.v` as design sources and `rtl/tb/
 
 Team ID 42 — Inter IIT Tech Meet 14.0, ISRO problem statement.
 
-## License
 
-Add a license (MIT/Apache-2.0/etc.) if this is meant to be public. Competition IP rules may apply — check with your team/ISRO POC before choosing a license or making the repo public.
